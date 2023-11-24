@@ -13,7 +13,7 @@ set incsearch                     " while typing a search command, show matches 
 set ts=2                          " set tabspace to 2
 set sw=2                          " sets number of spaces with autoindent
 set mouse=a                       " enable mouse interaction
-set nu                            " show or turn on lines numbers
+set rnu                           " show or turn on relative lines numbers
 set sm                            " shows matching brackets while typing
 set ruler                         " shows column and line number of cursor
 set showcmd                       " shows the latest commands that have been typed
